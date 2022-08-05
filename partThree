@@ -1,0 +1,17 @@
+<html>
+  <body>
+    <button onclick="displayResult()">Click me to see the result</button>
+    <script>
+      function displayResult() {
+        var sum = 0;
+        var i = 0;
+
+        while (i <= 100) {
+          sum = sum + i;
+          i++;
+        }
+        document.write(sum);
+      }
+    </script>
+  </body>
+</html>
