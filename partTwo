@@ -1,0 +1,12 @@
+<html>
+  <body>
+    <h1 id="myText">Hello Prashant!</h1>
+    <button onclick="displayResult()">Change text</button>
+
+    <script>
+      function displayResult() {
+        document.getElementById("myText").innerHTML = " CHANGED HERE!";
+      }
+    </script>
+  </body>
+</html>
