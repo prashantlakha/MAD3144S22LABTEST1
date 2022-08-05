@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <title>Prashant's Lab test</title>
+  </head>
+  <body>
+    <style>
+      body {
+        background-image: url("https://cdn.pixabay.com/photo/2016/03/09/09/30/woman-1245817_960_720.jpg");
+      }
+    </style>
+
+    <h1>Clothes</h1>
+    <table>
+      <tr>
+        <td>
+          <h3>Shirts</h3>
+          <p>Shirts are available and are on sale</p>
+          <img
+            src="https://cdn.pixabay.com/photo/2020/03/31/16/18/rabbit-4988412_960_720.jpg"
+            alt="Shirt here"
+            style="width: 200px"
+          />
+        </td>
+        <td>
+          <h3>Jeans</h3>
+          <p>jeans are available and are on sale</p>
+          <img
+            src="https://cdn.pixabay.com/photo/2014/08/26/21/49/jeans-428614_960_720.jpg"
+            alt="Jeans here"
+            style="width: 150px; height: 200px"
+          />
+        </td>
+        <td>
+          <h3>Jackets</h3>
+          <p>Jackets are available and are on sale</p>
+          <img
+            src="https://cdn.pixabay.com/photo/2016/03/27/19/57/woman-1284029_960_720.jpg"
+            alt="Jakcets here"
+            style="width: 200px"
+          />
+        </td>
+      </tr>
+    </table>
+    <p>Visit us once</p>
+    <p>contact 6478943744</p>
+  </body>
+</html>
